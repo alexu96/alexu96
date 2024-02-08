@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/gulsan19/**
 
-- ⚡ Fun fact **I think I am a fast larner**
+- ⚡ Fun fact **I think I am a fast learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
