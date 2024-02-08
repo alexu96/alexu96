@@ -1,9 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Gulsan B</h1>
 <h3 align="center">A passionate Full stack & Mobile developer from India</h3>
 <img align="right" alt = "coding" width="400" src= "https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexu96&label=Profile%20views&color=0e75b6&style=flat" alt="alexu96" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexu96" alt="alexu96" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexu96&label=Profile%20views&color=0e75b6&style=flat" alt="alexu96" /> </p>
 
 - 🔭 I’m currently working on [BNI Global](https://www.bni.com/)
 
@@ -27,4 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexu96&show_icons=true&locale=en" alt="alexu96" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexu96&" alt="alexu96" /></p>
