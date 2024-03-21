@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexu96&label=Profile%20views&color=0e75b6&style=flat" alt="alexu96" /> </p>
 
-- 🔭 I’m currently working on [BNI Global](https://www.bni.com/)
+- 🔭 I’m currently working at [BNI Global](https://www.bni.com/)
 
 - 🌱 I’m currently learning **Native Android Development**
 
