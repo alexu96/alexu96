@@ -74,6 +74,8 @@ A full-stack mobile application for landlords and tenants.
 
 ---
 
-## 🔗 LinkedIn
+## 📫 Contact Me
 
-https://linkedin.com/in/gulsan19
+Interested in discussing mobile development, full-stack engineering, or Agentic AI?
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gulsan19)
