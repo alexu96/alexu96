@@ -1,6 +1,6 @@
 # Gulsan Borbhuiya
 
-### Mobile Engineer | Full-Stack Developer | Agentic AI Builder
+### Senior Mobile Engineer | Full-Stack Developer | Agentic AI Builder
 
 Senior Software engineer with **4+ years of experience** building cross-platform mobile applications, native integrations, backend services, and AI-powered products.
 
