@@ -12,15 +12,16 @@ My core expertise is in **React Native**, including Native Modules, Native Bridg
 
 | Area | Technologies |
 |:---|:---|
-| 📱 **Cross-Platform Mobile** | React Native, TypeScript, JavaScript, Redux, New Architecture, Native Modules, Native Bridges, TurboModules |
-| 🤖 **Native Mobile** | Kotlin, Jetpack Compose, Android SDK, Swift, SwiftUI |
+| 📱 **Cross-Platform Mobile** | React Native, Redux, Native Modules, Native Bridges, TurboModules |
+| 🤖 **Native Mobile** | Android Jetpack Compose, Android SDK, SwiftUI |
 | ⚙️ **Backend** | Node.js, Express.js, FastAPI |
-| 🌐 **Web** | React.js, JavaScript, TypeScript |
+| 🌐 **Web** | React.js |
+| 🎯 **Programming Languages** | Kotlin, Python, Swift, JavaScript, TypeScript, Java |
 | 🧠 **Agentic AI** | LangChain, LangGraph, RAG, ReAct Agents, Tool Calling, Multi-Agent Systems, Supervisor Architecture, LLM Integration |
 | 🗄️ **Databases** | MongoDB, MySQL |
 | 💳 **Payments** | Razorpay, Stripe, Subscription Systems |
 | 🚀 **Engineering** | Mobile Performance Optimization, CI/CD, Play Store Releases, App Store Releases, Agile, Scrum |
-| 🛠️ **Tools** | Git, GitHub, Firebase, Postman, Jira, Docker |
+| 🛠️ **Tools** | Git, GitHub, Firebase, Postman, Jira, Docker, Claude, ChatGPT |
 | 💻 **Additional** | Go, CLI Development |
 
 ---
