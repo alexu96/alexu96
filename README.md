@@ -14,7 +14,7 @@ My core expertise is in **React Native**, including Native Modules, Native Bridg
 |:---|:---|
 | 📱 **Cross-Platform Mobile** | React Native, TypeScript, JavaScript, Redux, New Architecture, Native Modules, Native Bridges, TurboModules |
 | 🤖 **Native Mobile** | Kotlin, Jetpack Compose, Android SDK, Swift, SwiftUI |
-| ⚙️ **Backend** | Node.js, Express.js, FastAPI, Python, REST APIs |
+| ⚙️ **Backend** | Node.js, Express.js, FastAPI |
 | 🌐 **Web** | React.js, JavaScript, TypeScript |
 | 🧠 **Agentic AI** | LangChain, LangGraph, RAG, ReAct Agents, Tool Calling, Multi-Agent Systems, Supervisor Architecture, LLM Integration |
 | 🗄️ **Databases** | MongoDB, MySQL |
